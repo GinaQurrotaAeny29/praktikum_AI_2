@@ -21,18 +21,8 @@ FOL terdiri dari beberapa elemen utama:
    - `∀x (Manusia(x) → Fana(x))`
    - `∃x ∀y (Mencintai(x, y))`
 
-## 🔥 Penerapan FOL
-- **Artificial Intelligence (AI)**: Representasi pengetahuan dalam sistem pakar dan chatbot.
-- **Basis Data**: Querying dan pemodelan hubungan antar data.
-- **Matematika & Ilmu Komputer**: Pembuktian teorema otomatis.
-- **Robotika**: Pemrosesan logika untuk pengambilan keputusan.
-
 ## 📖 Referensi
 - Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach*
 - Wikipedia: [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
 
-## 📌 Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini, silakan lakukan fork, buat perubahan, dan kirimkan pull request.
 
----
-💡 **Dibuat oleh [Nama Anda]** | 🌟 Open for Contributions!
